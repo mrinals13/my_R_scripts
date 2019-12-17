@@ -3,7 +3,7 @@
 Below are my scripts written in R
 
 1. ocr.R:
-	* Optical Character Recognition(OCR) is the recognition of printed and handwritten characters by the computer system
+	* Optical Character Recognition(OCR) is the recognition of printed and handwritten characters by the computer system.
 	∗ Character recognition using Support Vector Machine.
 	Steps to run:
 		* Open the script with RStudio
